@@ -72,25 +72,6 @@ The program is designed to be simple, clean, and easy to understand for beginner
 git clone https://github.com/shyamigneshiyas/Rock-paper-scissors-game.git
 ```
 
-📂 Navigate to the project folder
-
-```bash
-cd Rock-paper-scissors-game
-```
-
-⚙️ Compile the program
-
-```bash
-javac Main.java
-```
-
-🚀 Run the program
-
-```bash
-java Main
-```
-
----
 
 ## 🎯 Game Rules
 
