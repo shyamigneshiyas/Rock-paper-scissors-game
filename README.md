@@ -64,14 +64,6 @@ The program is designed to be simple, clean, and easy to understand for beginner
 
 ---
 
-## ▶️ How to Run the Project
-
-📥 Clone or download the repository
-
-```bash
-git clone https://github.com/shyamigneshiyas/Rock-paper-scissors-game.git
-```
-
 
 ## 🎯 Game Rules
 
